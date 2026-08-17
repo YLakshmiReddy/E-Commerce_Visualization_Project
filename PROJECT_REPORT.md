@@ -193,4 +193,11 @@ Where:
 3. **Payment Intermediary Cost Reduction:** Offer 2–3% cash discounts on Boleto payments (19.04% volume) to reduce credit card interchange fee overheads.
 
 ---
+
+## 8. DEPLOYMENT
+1. Use the following command and run it in the terminal or powershell to start the server - "python -m http.server 8000".
+2. Then use this link to open the website using local hosting - " http://localhost:8000/index.html".
+
+---
+
 *Report generated for ITA0404 R Programming Capstone Project — August 2026*
